@@ -48,8 +48,8 @@ namespace PigLatinCapstone
         static string ToPigLatin(string sentence)//Method to translate into PigLatin
         {
                 
-            string vowels = "AEIOUaeio";    //Delcaring my vowel check string
-            string vowelsY = "AEIOUYaeioy"; //this is added under the assumption that if Y is starting the word it is a consonant 
+            string vowels = "AEIOUaeiou";    //Delcaring my vowel check string
+            string vowelsY = "AEIOUYaeiouy"; //this is added under the assumption that if Y is starting the word it is a consonant 
                                             //otherwise it will be the vowel or another vowel will come before it
 
             string returnSentence = ""; // making an empty string to fill later for the ouput
