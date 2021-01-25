@@ -56,7 +56,7 @@ namespace PigLatinCapstone
 
 
             //This foreach is to cycle through each word in the sentence
-            foreach (string word in sentence.Split(' '))
+            foreach (string word in sentence.Split(' ', StringSplitOptions.RemoveEmptyEntries))
             {
                 //Breaking the first word up into the first letter and the rest of the word
                 string firstLetter = word.Substring(0, 1);
