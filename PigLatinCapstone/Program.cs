@@ -62,8 +62,8 @@ namespace PigLatinCapstone
                 string firstLetter = word.Substring(0, 1);
                 string restOfWord = word.Substring(1, word.Length - 1);
                 int currentLetter = vowels.IndexOf(firstLetter, StringComparison.Ordinal);//Determines if the firstletter is a vowel or not
-                string punctuation = ".,!?;:";
                 string punct = "";
+                string vWord = "";
 
 
                 //If there is any punctuation or commas split it off to add later and store it
@@ -71,17 +71,17 @@ namespace PigLatinCapstone
                 {
                     punct = word.Substring(word.Length - 1, 1);//stores the punctuation for later
 
-                    for (int i = 0; i < restOfWord.Length; i++)//runs through the word and deletes the end punctuation to avoid a double print of the punctuation
-                    {
-                        int isPunt = punctuation.IndexOf(restOfWord[i]);
-                        restOfWord = restOfWord.Remove(restOfWord.Length-1,1);
-                    }
+                    //runs through the word and deletes the end punctuation to avoid a double print of the punctuation
+
+                   vWord = word.Remove(word.Length - 1, 1);
+                   restOfWord = restOfWord.Remove(restOfWord.Length-1,1);
+                    
                 }
                 
                 //If there is number or special Chars. , do not translate 
                 if (IsNumChar(word))
                 {
-                    returnSentence += word + " ";
+                    returnSentence += word + punct + " ";
 
                          //If statement to determine whether the first letter is a vowel or a consonant  
                 }        //based upon the above currentletter variable (integer) where -1 is a fail of the vowel check
@@ -114,7 +114,14 @@ namespace PigLatinCapstone
                 }
                 else //the case of the first letter is vowel and adds the word with way to the remaining sentence
                 {
-                    returnSentence += word + "way" + punct + " ";
+                    if(ContainsPunct(word))
+                    {
+                        returnSentence += vWord + "way" + punct + " ";
+                    }
+                    else
+                    {
+                        returnSentence += word + "way ";
+                    }
                 }
              }
                return returnSentence; //sends back the full string or sentence that was translated
