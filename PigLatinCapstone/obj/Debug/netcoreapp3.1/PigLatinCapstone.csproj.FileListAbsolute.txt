@@ -11,3 +11,16 @@ C:\Users\tacol\Desktop\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapst
 C:\Users\tacol\Desktop\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp3.1\PigLatinCapstone.dll
 C:\Users\tacol\Desktop\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp3.1\PigLatinCapstone.pdb
 C:\Users\tacol\Desktop\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp3.1\PigLatinCapstone.genruntimeconfig.cache
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp3.1\PigLatinCapstone.exe
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp3.1\PigLatinCapstone.deps.json
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp3.1\PigLatinCapstone.runtimeconfig.json
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp3.1\PigLatinCapstone.runtimeconfig.dev.json
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp3.1\PigLatinCapstone.dll
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp3.1\PigLatinCapstone.pdb
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp3.1\PigLatinCapstone.csprojAssemblyReference.cache
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp3.1\PigLatinCapstone.AssemblyInfoInputs.cache
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp3.1\PigLatinCapstone.AssemblyInfo.cs
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp3.1\PigLatinCapstone.csproj.CoreCompileInputs.cache
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp3.1\PigLatinCapstone.dll
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp3.1\PigLatinCapstone.pdb
+D:\Grand Circus\Grand Circus Docs\Projects\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp3.1\PigLatinCapstone.genruntimeconfig.cache

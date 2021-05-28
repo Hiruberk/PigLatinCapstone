@@ -67,7 +67,7 @@ namespace PigLatinCapstone
 
 
                 //If there is any punctuation or commas split it off to add later and store it
-                if (ContainsPunct(word))
+                if (ContainsPunct(word) && !IsNumChar(word))
                 {
                     punct = word.Substring(word.Length - 1, 1);//stores the punctuation for later
 

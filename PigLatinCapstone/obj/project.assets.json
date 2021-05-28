@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tacol\\Desktop\\Grand Circus Docs\\Projects\\PigLatinCapstone\\PigLatinCapstone\\PigLatinCapstone.csproj",
+      "projectUniqueName": "D:\\Grand Circus\\Grand Circus Docs\\Projects\\PigLatinCapstone\\PigLatinCapstone\\PigLatinCapstone.csproj",
       "projectName": "PigLatinCapstone",
-      "projectPath": "C:\\Users\\tacol\\Desktop\\Grand Circus Docs\\Projects\\PigLatinCapstone\\PigLatinCapstone\\PigLatinCapstone.csproj",
+      "projectPath": "D:\\Grand Circus\\Grand Circus Docs\\Projects\\PigLatinCapstone\\PigLatinCapstone\\PigLatinCapstone.csproj",
       "packagesPath": "C:\\Users\\tacol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tacol\\Desktop\\Grand Circus Docs\\Projects\\PigLatinCapstone\\PigLatinCapstone\\obj\\",
+      "outputPath": "D:\\Grand Circus\\Grand Circus Docs\\Projects\\PigLatinCapstone\\PigLatinCapstone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tacol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
